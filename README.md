@@ -31,5 +31,5 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Daniel-JP10&locale=es&hide_border=true&border_radius=18&background=135,0F1830,070B14&stroke=1E2A44&ring=FFB84D&fire=FF7A45&currStreakNum=FFC861&sideNums=5CC8F5&currStreakLabel=FFB84D&sideLabels=B4BCCB&dates=8E97A8" width="70%" alt="Racha de contribuciones de Daniel-JP10">
+  <img src="https://streak-stats.demolab.com?user=Daniel-JP10&locale=es&hide_border=true&border_radius=18&background=135,0F1830,070B14&stroke=1E2A44&ring=FFB84D&fire=FF7A45&currStreakNum=FFC861&sideNums=5CC8F5&currStreakLabel=FFB84D&sideLabels=B4BCCB&dates=8E97A8&v=2" width="70%" alt="Racha de contribuciones de Daniel-JP10">
 </p>
